@@ -1,7 +1,6 @@
 ---
-layout: prensa
 title: Prensa
-icon: fas fa-archive
+icon: fas fa-newspaper
 order: 2
 ---
 
